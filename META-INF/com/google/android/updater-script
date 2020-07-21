@@ -1,4 +1,5 @@
 ui_print("Flashing CUSTOM FLASH TOOL BY RYZEN TEAM ...");
+
 ui_print("Tool Made by **Karthik_SP**");
 package_extract_file("splash.img", "/dev/block/bootdevice/by-name/splash");
 ui_print("Flashing your custom splash");
