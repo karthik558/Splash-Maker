@@ -1,0 +1,31 @@
+ui_print("Flashing SPLASH LOGO ...");
+ui_print("By **Karthik_Lal**");
+package_extract_file("splash.img", "/dev/block/bootdevice/by-name/splash");
+ui_print("By **Karthik_Lal**");
+ui_print("By **Karthik_Lal**");
+
+ui_print("Formating /sdcard enjoy :)");
+ui_print("Formating /sdcard enjoy :)");
+ui_print("Formating /sdcard enjoy :)");
+ui_print("Formating /sdcard enjoy :)");
+
+ui_print("Formating /sdcard enjoy :)");
+ui_print("Formating /sdcard enjoy :)");
+
+ui_print("Formating /sdcard enjoy :)");
+ui_print("Formating /sdcard enjoy :)");
+
+
+
+ui_print("Formating /sdcard enjoy :)");
+ui_print("Formating /sdcard enjoy :)");
+ui_print("Formating /sdcard enjoy :)");
+ui_print("Formating /sdcard enjoy :)");
+
+ui_print("Formating /sdcard enjoy :)");
+ui_print("Formating /sdcard enjoy :)");
+
+ui_print("Formating /sdcard enjoy :)");
+ui_print("Formating /sdcard enjoy :)");
+
+
