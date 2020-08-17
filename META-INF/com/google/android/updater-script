@@ -1,33 +1,7 @@
-ui_print("Flashing CUSTOM FLASH TOOL BY RYZEN TEAM ...");
-
-ui_print("Tool Made by **Karthik_SP**");
+ui_print("Flashing SPLASH LOGO ...");
+ui_print("By **KARTHIK_SP**");
 package_extract_file("splash.img", "/dev/block/bootdevice/by-name/splash");
-ui_print("Flashing your custom splash");
-
-ui_print("Flashing your custom splash");
-
-ui_print("To continue we need to format data");
-
-ui_print("Wiping internal storage "");
-
-ui_print("Mounting vendor/data "");
-
-ui_print("Formating Data"");
-
-ui_print("Formating Data.."");
-
-ui_print("Formating Data..."");
-
-ui_print("Formating Data...."");
-
-ui_print("Formating Data....."");
-
-ui_print("Formating Data......"");
-
-ui_print("Formating Data......."");
-
-ui_print("Formating Data........"");
-
-ui_print("No need to worry,its just a prank :-)");
-
-ui_print("Splash Sucessfully Flashed on your device"");
+ui_print("Boot Logo has been flashed successfully!");
+ui_print("By ****KARTHIK_SP****");
+ui_print("Reboot your phone");
+ui_print("Enjoy :) ");
