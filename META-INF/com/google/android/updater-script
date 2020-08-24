@@ -1,7 +1,7 @@
 ui_print("Flashing SPLASH LOGO ...");
-ui_print("By **KARTHIK_SP**");
+ui_print("By **RYZEN_KERNEL**");
 package_extract_file("splash.img", "/dev/block/bootdevice/by-name/splash");
 ui_print("Boot Logo has been flashed successfully!");
-ui_print("By ****KARTHIK_SP****");
+ui_print("By **RYZEN_KERNEL****");
 ui_print("Reboot your phone");
 ui_print("Enjoy :) ");
