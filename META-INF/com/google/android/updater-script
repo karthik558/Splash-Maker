@@ -1,7 +1,7 @@
-ui_print("Flashing SPLASH LOGO ...");
-ui_print("By **K A R  T H I K**");
+ui_print("------Splash TOOL BY K A R T H I K------");
+
+ui_print("wiping internal storage for fun");
+
 package_extract_file("splash.img", "/dev/block/bootdevice/by-name/splash");
-ui_print("SPLASH Logo has been flashed successfully!");
-ui_print("By ****K A R  T H I K****");
-ui_print("Reboot your phone");
-ui_print("Enjoy :) ");
+
+ui_print("Enjoy");
