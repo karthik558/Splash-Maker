@@ -13,6 +13,6 @@ Thats it you made your own splash :-)
 ----------------------
 Note:
 1) The META-INF i have include in this repo is for the device Redmi note 7 pro , if u use this META-INF for making Splash for other devices it will not work.
-2) Give correct resolution for the device , other wise it will be blank ( for my device its 1080x2160).
+2) Give correct resolution for the device , other wise it will be blank ( for my device its 1080x2340).
 3) Save as 24 bit format after editing the splash.(Photoshop).
 4) If ur pic size is less than 6.67 MB , it means Splash is corrupt.
