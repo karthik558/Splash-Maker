@@ -14,7 +14,7 @@
 
 ## Overview
 
-![Screenshot](https://github.com/karthik558/Splash-Maker/master/screenshot/screenshot.png)
+![Screenshot](https://github.com/karthik558/Splash-Maker/blob/master/screenshot/screenshot.png)
 
 ## Note
 1) The META-INF i have include in this repo is for the device Redmi note 7 pro , if u use this META-INF for making Splash for other devices it will not work.
